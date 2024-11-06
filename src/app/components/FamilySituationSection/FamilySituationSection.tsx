@@ -27,14 +27,13 @@ const FamilySituationSection = ({ familySituation, setFamilySituation, setEarner
     };
 
     useEffect(() => {
-        setEarnerList(prev => {
-            return {
-                ...prev,
-                father: false,
-                mother: false
-            }
-        })
-    }, [familySituation.situation])
+        setEarnerList(prev => ({
+            ...prev,
+            father: false,
+            mother: false
+        }));
+    }, [familySituation.situation, setEarnerList]);
+
 
 
     return (
