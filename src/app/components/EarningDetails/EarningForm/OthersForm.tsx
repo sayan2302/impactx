@@ -35,7 +35,7 @@ const OthersForm = ({ primaryEarner, setPrimaryEarner, title, othersFormFields, 
             <div className='my-[36px] flex flex-wrap items-baseline justify-between'>
                 <div className="flex gap-x-[8px] items-center cursor-pointer select-none" onClick={() => setToggleSection(!toggleSection)} >
                     <div className={`${toggleSection ? "duration-100" : "rotate-180 duration-100"}`}><Arrow /></div>
-                    <span className='text-[24px] font-[500]'>{capitalName}'s Earning Details</span>
+                    <span className='text-[24px] font-[500]'>{capitalName}&rsquo;s Earning Details</span>
                 </div>
                 <FormControlLabel
                     label="Set as primary earner"
