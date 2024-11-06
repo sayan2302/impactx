@@ -7,7 +7,7 @@ import HamburgerIcon from '../../../../public/assets/svg/Hamburger_Logo.svg'
 const Header = () => {
     return (
         <div className="relative mb-[70px] z-50">
-            <div className='  h-[70px] w-screen bg-white fixed top-0 left-0 flex justify-between px-[24px] border border-[#ECECEC]'>
+            <div className='  h-[70px] w-[100%] bg-white fixed top-0 left-0 flex justify-between px-[24px] border border-[#ECECEC]'>
                 {/* brand icon */}
                 <div className='flex items-center justify-center' >
                     <HamburgerIcon className={`${styles.Hamburger} mr-[18px]`} />
