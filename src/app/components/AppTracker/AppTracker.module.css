@@ -1,0 +1,9 @@
+.Shadow {
+    box-shadow: 0px 3px 8.8px 0px #00000040;
+}
+
+@media (width<800px) {
+    .AppTracker {
+        display: none;
+    }
+}

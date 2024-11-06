@@ -1,0 +1,29 @@
+.MainForm {
+    margin-top: 8px;
+    padding: 20px;
+    max-width: 803px;
+}
+
+.ResetButton {
+    display: none;
+}
+
+
+.Shadow {
+    box-shadow: 0px 1px 3px 0px #00000005;
+    /* box-shadow: 0px 6px 10px 0px #B1B1B114; */
+}
+
+@media (width>800px) {
+    .MainForm {
+        margin-top: 39px;
+        padding: 40px;
+        box-shadow: 0px 1px 3px 0px #00000005;
+        box-shadow: 0px 6px 10px 0px #B1B1B114;
+        border-radius: 16px;
+    }
+
+    .ResetButton {
+        display: inline-block;
+    }
+}

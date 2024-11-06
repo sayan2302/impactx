@@ -1,0 +1,5 @@
+@media (width>=450px) {
+    .Hamburger {
+        display: none;
+    }
+}

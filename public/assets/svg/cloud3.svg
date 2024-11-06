@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="42" height="39" viewBox="0 0 1080 1080" xml:space="preserve">
+
+<!-- Cloud scaled to half the size and centered -->
+<g transform="matrix(28.68 0 0 28.68 540 540)" >
+  <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-13.24, -10)" d="M 20.6219 19.4592 L 16.3835 19.4592 L 15.2422 19.4592 L 14.9957 19.4592 L 14.9957 13.8225 L 16.855 13.8225 C 17.3265 13.8225 17.6052 13.2912 17.3265 12.9087 L 13.7097 7.9467 C 13.4793 7.62794 13.0025 7.62794 12.7721 7.9467 L 9.15525 12.9087 C 8.87662 13.2912 9.14989 13.8225 9.62677 13.8225 L 11.4861 13.8225 L 11.4861 19.4592 L 11.2396 19.4592 L 10.0983 19.4592 L 5.1848 19.4592 C 2.37173 19.3051 0.131989 16.6966 0.131989 13.8703 C 0.131989 11.9205 1.19828 10.2205 2.77895 9.30142 C 2.63428 8.9136 2.55927 8.49921 2.55927 8.06357 C 2.55927 6.07134 4.18281 4.46161 6.19215 4.46161 C 6.62616 4.46161 7.04411 4.53599 7.43526 4.67943 C 8.59799 2.23562 11.1056 0.540894 14.0205 0.540894 C 17.7927 0.546206 20.9005 3.40971 21.2541 7.05949 C 24.1529 7.55356 26.3552 10.2152 26.3552 13.2275 C 26.3552 16.4469 23.8261 19.236 20.6219 19.4592 Z" stroke-linecap="round" />
+</g>
+
+</svg>
